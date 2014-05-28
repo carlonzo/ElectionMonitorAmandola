@@ -1,4 +1,4 @@
-ElectionMonitorAmandola
+Election Monitor Amandola
 =======================
 This is a very simple project for a platform used to monitor in real-time the data of the election day.
 
