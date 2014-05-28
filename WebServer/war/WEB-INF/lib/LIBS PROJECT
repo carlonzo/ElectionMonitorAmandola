@@ -1,0 +1,27 @@
+LIBS APPENGINE:
+appengine-api-1.0-sdk-1.9.5.jar
+appengine-api-labs.jar
+appengine-endpoints-deps.jar
+appengine-endpoints.jar
+appengine-jsr107cache-1.9.5.jar
+asm-4.0.jar
+datanucleus-api-jdo-3.1.3.jar
+datanucleus-api-jpa-3.1.3.jar
+datanucleus-appengine-2.1.2.jar
+datanucleus-core-3.1.3.jar
+geronimo-jpa_2.0_spec-1.0.jar
+gwt-servlet.jar
+jdo-api-3.0.1.jar
+jsr107cache-1.1.jar
+jta-1.1.jar
+
+
+LIBS RESTEASY:
+jackson-core-asl-1.9.9.jar
+jackson-jaxrs-1.9.9.jar
+jackson-mapper-asl-1.9.9.jar
+jackson-xc-1.9.9.jar
+javassist-3.8.0.GA.jar
+jaxrs-api-2.3.5.Final.jar
+resteasy-jaxrs-2.3.5.Final.jar
+scannotation-1.0.3.jar
